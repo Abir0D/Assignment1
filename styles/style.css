@@ -21,3 +21,22 @@
   border-radius: 16px;
   margin-bottom: 120px;
 }
+.hero-title {
+    text-align: center;
+    align-items: center;
+    padding-top: 200px;
+}
+.hero-title h3 {
+    color: #fff;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.hero-title h1 {
+    color: #fff;
+    font-size: 72;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+}
