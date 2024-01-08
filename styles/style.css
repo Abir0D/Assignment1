@@ -40,3 +40,50 @@
     font-weight: 900;
     line-height: 95px;
 }
+.number-title{
+    align-items: center;
+    text-align: center;
+}
+.number-title h1{
+    color: #fff;
+    text-align: center;
+    font-size: 88px;
+    font-style: normal;
+    line-height: normal;
+    margin-bottom: 10px;
+}
+.number-title p{
+  color: #f00;
+  text-align: center;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-top: 10px;
+}
+.numbar-title h3 {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 10px;
+} 
+.number-title img{
+    width: 802.9;
+    height: 500px;
+    flex-shrink: 0;
+    margin-bottom: 120px;
+} 
+.welcome-party-section{
+    background: linear-gradient(0deg, rgba(22, 1, 13, 0.468),rgba(31, 1, 19, 0.415) ),
+    url("../images/Vectorrr.png");
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    margin-bottom: 120px;
+}
+.welcome-texts {
+
+}
