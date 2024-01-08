@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    width: 1320px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 50px;
+}
+.hero-section {
+    background: linear-gradient(0deg, rgba(22, 1, 13, 0.468), rgba(31, 1, 19, 0.415) ),
+  url("../images/Banner\ Image.png");
+  width: 1320px;
+  height: 600px;
+  flex-shrink: 0px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-radius: 16px;
+  margin-bottom: 120px;
+}
