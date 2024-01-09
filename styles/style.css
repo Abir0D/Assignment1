@@ -90,3 +90,42 @@
  padding-right: 552px;
  margin-bottom: 266px;
 }
+.welcome-texts h1 {
+    width: 642px;
+    color: #fff;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    margin-bottom: 24px;
+}
+.welcome-texts p{
+    width: 697px;
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 45px;
+}
+button {
+    background-color: #f00;
+    padding: 10px 30px;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 600px;
+    border: none;
+    border-radius: 5px;
+}
+.place-sections {
+    background-image: url("../images/bg.png");
+    fill: linear-gradient(
+        180deg, rgba(255, 0, 0, 0.1)%
+        rgba(255, 0, 0, 0)100%);
+    
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
+    
+}
