@@ -40,11 +40,11 @@
     font-weight: 900;
     line-height: 95px;
 }
-.number-title{
+.num-title{
     align-items: center;
     text-align: center;
 }
-.number-title h1{
+.num-title h1{
     color: #fff;
     text-align: center;
     font-size: 88px;
@@ -52,7 +52,7 @@
     line-height: normal;
     margin-bottom: 10px;
 }
-.number-title p{
+.num-title p{
   color: #f00;
   text-align: center;
   font-size: 24px;
@@ -61,7 +61,7 @@
   line-height: normal;
   margin-top: 10px;
 }
-.numbar-title h3 {
+.num-title h3 {
     color: #070211;
     text-align: center;
     font-size: 48px;
@@ -70,7 +70,7 @@
     line-height: normal;
     margin-bottom: 10px;
 } 
-.number-title img{
+.num-title img{
     width: 802.9;
     height: 500px;
     flex-shrink: 0;
@@ -85,5 +85,8 @@
     margin-bottom: 120px;
 }
 .welcome-texts {
-
+ padding-top: 126px;
+ padding-left: 126px;
+ padding-right: 552px;
+ margin-bottom: 266px;
 }
